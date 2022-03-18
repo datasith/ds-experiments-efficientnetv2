@@ -1,3 +1,4 @@
 [submodule "automl"]
 	path = automl
 	url = https://github.com/google/automl
+  ignore = dirty
